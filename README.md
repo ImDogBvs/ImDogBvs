@@ -16,7 +16,9 @@ Plataforma web de participación ciudadana para registrar y gestionar incidencia
 - **Calidad y operación:** pruebas con `node:test` y Playwright, GitHub Actions y Docker Compose.
 - **Privacidad:** permisos por recurso y separación entre información pública y datos privados.
 
-El código del proyecto se mantiene en un repositorio privado durante el desarrollo del piloto.
+El código del proyecto se mantiene en un repositorio privado durante el desarrollo del piloto. Puedes ver el [caso de estudio público, con capturas y decisiones de arquitectura](https://github.com/ImDogBvs/MiMunicipioVivo-case-study).
+
+[![Vista de Mi Municipio Vivo con datos ficticios](https://raw.githubusercontent.com/ImDogBvs/MiMunicipioVivo-case-study/main/assets/landing-demo.png)](https://github.com/ImDogBvs/MiMunicipioVivo-case-study)
 
 ## Tecnologías
 
